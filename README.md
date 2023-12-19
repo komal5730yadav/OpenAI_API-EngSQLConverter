@@ -1,3 +1,5 @@
+![Vite + React - Google Chrome 12_19_2023 6_14_04 AM](https://github.com/komal5730yadav/OpenAI_API-EngSQLConverter/assets/133533646/91691d68-656a-4dd8-a910-a4a8ad7b9bf6)
+
 # OpenAI_API-EngSQLConverter
 Natural Language to SQL Query Converter
 This is a full stack app that converts natural language English to SQL queries using OpenAI's GPT-3.5 architecture and text completion API. The app has a client and a server, each with its own npm packages.
